@@ -1,4 +1,4 @@
-import { Connection, Keypair, LAMPORTS_PER_SOL, PublicKey } from "@solana/web3.js";
+import { Connection, PublicKey } from "@solana/web3.js";
 import { printBalance } from "../utils/format";
 import { SOLANA_DEFAULT_ADDRESS } from "../utils/constant";
 // import * as bs58 from "bs58";
