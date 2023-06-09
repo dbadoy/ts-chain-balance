@@ -1,0 +1,10 @@
+{
+  "name": "near",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "near-api-js": "^2.1.4"
+  }
+}

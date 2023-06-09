@@ -1,6 +1,7 @@
 import { AptosClient, AptosAccount, CoinClient } from "aptos";
 import { printBalance } from "../utils/format";
 
+// ** BROKEN **
 async function main() {
     const client = new AptosClient('https://fullnode.devnet.aptoslabs.com/v1');
     const coinClient = new CoinClient(client);
