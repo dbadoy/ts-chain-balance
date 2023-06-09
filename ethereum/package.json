@@ -1,0 +1,11 @@
+{
+  "name": "ethereum",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "ethers": "^6.5.1",
+    "web3": "^4.0.1"
+  }
+}
